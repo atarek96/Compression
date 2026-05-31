@@ -28,7 +28,8 @@ A **Tkinter-based GUI** application that demonstrates and compares various **Los
 
 ## 📸 Screenshots
 
-*(Add screenshots of your GUI here after running the app)*
+<img width="305" height="733" alt="compression output" src="https://github.com/user-attachments/assets/37bf6305-4e09-48f2-9492-ee41a9161a6b" />
+
 
 ## 🚀 How to Run
 
